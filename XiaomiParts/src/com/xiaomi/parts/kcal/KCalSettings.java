@@ -24,7 +24,7 @@ import androidx.preference.Preference;
 import com.xiaomi.parts.FileUtils;
 import com.xiaomi.parts.R;
 import com.xiaomi.parts.preferences.SecureSettingCustomSeekBarPreference;
-import com.xiaomi.parts.preferences.SecureSettingSwitchPreference;
+import com.aicp.gear.preference.SecureSettingSwitchPreference;
 
 public class KCalSettings extends PreferenceFragment implements
         Preference.OnPreferenceChangeListener, Utils {
